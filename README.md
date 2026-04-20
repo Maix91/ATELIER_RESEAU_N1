@@ -89,8 +89,9 @@ Il permet à une couche d’accéder aux services de la couche inférieure.
 Vous pouvez observez le protocole DHCP sur votre site **{site}.pythonanywhere.com/dhcp**  
   
 **Exercice 2 : Créer une image montrant l’encapsulation des couches suivantes**    
-_Collez votre image ici_ 
-  
+
+<img width="959" height="152" alt="image" src="https://github.com/user-attachments/assets/f5b471e2-7137-4aa9-bf20-8200e6336e56" />
+
 --------------------------------------------------------------------
 🧠 Troubleshooting :
 ---------------------------------------------------
